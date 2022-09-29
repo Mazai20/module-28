@@ -36,17 +36,5 @@
 <br>При необходимости запуска из Terminal можно закомментировать строки, сохраняющие данные в файл, в т.ч. в файле conftest.py, но при этом, тесты авторизации могут не работать, так как для них нужен доступ к сохранённым значениям в файле Settings.py.
 <br><strong>Также на сайте есть Антиробот.</strong> При поточном запуске тестов, возможна блокировка сайта. Лимит на авторизацию - 10 раз.
 
-
-### Ссылка на <a href = "https://docs.google.com/spreadsheets/d/1rvkus04rJtl0khkaxSrmquCr4JAlLedy/edit?usp=sharing&ouid=113320492480885390471&rtpof=true&sd=true" target="_blank">ЧЕК-ЛИСТ</a> с комментариями.
-
-### Моя инструкция по созданию <a href = "https://drive.google.com/file/d/1RprZxwrH0PeFiyAAXMzZ00FfuB8u5XwX/view?usp=sharing" target="_blank">Allure Report</a>.
-
-### Окружение:
-Windows 10 Домашняя, версия 20H2, сборка 19042.1466, дата установки 08.03.2021
-<br>Google Chrome, Версия 105.0.5195.52 (Официальная сборка), (64 бит)
-
-### Владимир Антонов, QAP-74
-
-
-<br><img src="https://i.pinimg.com/564x/ff/cd/a1/ffcda1ddf83fe41924b1481d0ad1ccee.jpg" width="80" height="100">
+ 
  
